@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.discordapp.net/attachments/1123200947074637874/1212050595406422037/279670412-5e0ce0fb-c544-4f8c-a307-5849165746d0.png?ex=65f06d14&is=65ddf814&hm=6e41f3536a1f042aae3ba85436c16d4623e72becc20c3392d8a6e769ff78e0b2&=&format=webp&quality=lossless&width=197&height=350" width="25%" align="right" />
+<img src="https://media.discordapp.net/attachments/1123200947074637874/1212050595406422037/279670412-5e0ce0fb-c544-4f8c-a307-5849165746d0.png?ex=65f06d14&is=65ddf814&hm=6e41f3536a1f042aae3ba85436c16d4623e72becc20c3392d8a6e769ff78e0b2&=&format=webp&quality=lossless&width=197&height=350" width="25%" align="right"/>
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+AnSit%2C+a+Developer+and+me+very+Handsome+%E2%9C%A9" width="70%" />
 <br><br>
 <pre>
